@@ -10,7 +10,7 @@ This is one of the projects in the 100 days of python challenge - here is the [l
 ### How does it work?
 
 
-This script would scrap for top 100 billboard songs on user's input date. Then it would create a spotify playlist with following title format "hot-100-<date>"
+This script would scrap for top 100 billboard songs on user's input date. Then it would create a spotify playlist with following title format "hot-100-'input-date'"
 
 To set it up please follow "getting started" in this [git repo](https://github.com/tduong10101/spotify-time-machine). Here is an overview flow:
 
