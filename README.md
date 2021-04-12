@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ```
 3. Create Spotify following this [link](https://developer.spotify.com/documentation/general/guides/app-settings/) with redirect URIs set as: https://blog.tdinvoke.net/
 
-4. Put your spotify app client id and client secret to default-cred.json
+4. Put your spotify app client id, client secret and user id to default-cred.json
 
 ```
 {
