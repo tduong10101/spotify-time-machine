@@ -20,6 +20,7 @@ To set it up please follow "getting started" in this [git repo](https://github.c
 ### Requirements
 
 - Python 3
+- Spotify account
 
 ### Getting Started
 
