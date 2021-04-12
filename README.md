@@ -12,7 +12,7 @@ This script would scrap for top 100 billboard songs on user's input date. Then i
 
 To set it up please follow "getting started" in this [git repo](https://github.com/tduong10101/spotify-time-machine). Here is an overview flow:
 
-![Overview](/img/spotify-time-machine.JPG)
+![Overview](/img/spotify-time-machine.jpg)
 
 
 ### Requirements
