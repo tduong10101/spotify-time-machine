@@ -14,7 +14,7 @@ with open("default-cred.json","r") as f:
 
 CLIENT_ID = cred['CLIENT_ID']
 CLIENT_SECRET = cred['CLIENT_SECRET']
-USER = 'xwjt66crzen3f6twyrwr15yei'
+USER = cred['USER_ID']
 
 while True:
     try:

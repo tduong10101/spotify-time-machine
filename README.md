@@ -40,7 +40,8 @@ pip install -r requirements.txt
 ```
 {
     "CLIENT_ID":"<your-spotify-client-id>",
-    "CLIENT_SECRET":"<your-spotify-client-secret>"
+    "CLIENT_SECRET":"<your-spotify-client-secret>",
+    "USER_ID":"<your-spotify-user-id>"
 }
 ```
 
